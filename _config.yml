@@ -1,0 +1,11 @@
+title: Shuo Yang's Home Page
+author:
+  name: Shuo Yang
+  email: frank.shuo.yang@gmail.com
+  github: shuoyang2016
+show_downloads: true
+google_analytics:
+theme: 
+exclude: ["README.md", "LICIENCE"]
+production_url: https://shuoyang2016.github.io/
+BASE_PATH: https://shuoyang2016.github.io/
